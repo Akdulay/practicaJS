@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.slider {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.slider-image {
+    width: 100px;
+    cursor: pointer;
+}
+
+
